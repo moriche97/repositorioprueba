@@ -1,1 +1,0 @@
-insertar en una nueva rama para un pull request y un merge o rebase
